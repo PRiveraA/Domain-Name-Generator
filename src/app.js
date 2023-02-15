@@ -1,11 +1,5 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
+// Results are supposed to show in the console
 
-import "./assets/img/rigo-baby.jpg";
-import "./assets/img/4geeks.ico";
-
-//write your code here
 let pronoun = ["the", "our"];
 let adjective = ["great", "big"];
 let noun = ["jogger", "raccoon"];
